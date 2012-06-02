@@ -1,5 +1,5 @@
 
-DEPLOYMENT_MODE = 'dev'
+DEPLOYMENT_MODE = 'prod'
 COMPRESS_REVISION_NUMBER = '1.0'
 
 
@@ -20,6 +20,6 @@ if DEPLOYMENT_MODE == 'dev':
     from local_settings import *
 else:
     DEBUG = False
-    SITE_ROOT_URI = '[ENTER PROD URL HERE] ex. http://rigoneri.herokuapp.com/'
+    SITE_ROOT_URI = 'http://falling-dawn-5013.herokuapp.com'
 
 MEDIA_URL = SITE_ROOT_URI + 'static/'
