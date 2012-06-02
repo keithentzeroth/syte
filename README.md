@@ -6,8 +6,9 @@ Syte is a really simple but powerful packaged personal site that has social inte
 
 You can use, reproduce and do whatever you want with syte as long as you choose a different adjacent color as the ones used by the people below. Once you have chosen your color and deployed your Syte based site, please send a pull request with an image of you containing the color on the border like the ones above.
 
-[![rigoneri](https://github.com/rigoneri/syte/blob/master/readme-imgs/rigoneri.png?raw=true)](http://rigoneri.com)
 
+[![rigoneri](https://github.com/rigoneri/syte/blob/master/readme-imgs/rigoneri.png?raw=true)](http://rigoneri.com)
+[![keithentzeroth](https://github.com/keithentzeroth/syte/blob/master/readme-imgs/keithentzeroth.png?raw=true)](http://keithentzeroth.com)
 
 ## Social Integrations
 
