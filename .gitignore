@@ -1,2 +1,4 @@
 *.pyc
 .DS_Store
+syte/my_settings.py
+syte/local_settings.py
